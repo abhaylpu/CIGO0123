@@ -65,9 +65,9 @@ func function_name(){
 // }
 // func c() (i int, j string){
 // 	i=10
-// 	j="rahul"
+// 	j="abhay"
 // 	return
-// } //Output: 10 rahul
+// } //Output: 10 abhay
 
 // func main() {
 // 	result, x := c()
@@ -83,9 +83,9 @@ func function_name(){
 // }
 // func c() (i int, j string){
 // 	i=10
-// 	j="rahul"
+// 	j="abhay"
 // 	return
-// } //Output: 10 rahul [1 2 3 4 5 6 6]
+// } //Output: 10 abhay[1 2 3 4 5 6 6]
 
 // func main() {
 // 	result, x := c()
@@ -105,9 +105,9 @@ func function_name(){
 // }
 // func c() (i int, j string){
 // 	i=10
-// 	j="rahul"
+// 	j="abhay"
 // 	return
-// } //Output: 10 rahul 1234566true
+// } //Output: 10 abhay 1234566true
 
 // func main() {
 // 	result, x := c()
@@ -127,7 +127,7 @@ func function_name(){
 // }
 // func c() (i int, j string) {
 // 	i = 10
-// 	j = "rahul"
+// 	j = "abhay"
 // 	return
 // }
 

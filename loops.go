@@ -60,9 +60,9 @@ func main() {
 	// 	fmt.Println(value)
 	// }
 
-	// for _, value:=range "rahul" {
+	// for _, value:=range "abhay" {
 	// 	fmt.Println(value)
-	// }  //Here it prints the ASCII values of the word "rahul"
+	// }  //Here it prints the ASCII values of the word "abhay"
 
 	nums := []string{"abhay", "pratap", "singh"}
 	for _, value := range nums {
