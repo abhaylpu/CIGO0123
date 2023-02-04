@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 
-	"github.com/Gaurav110010001/week2-GL1-CipherSchools/models"
+	"github.com/abhaylpu/CIGO0123/tree/main/(Week-2%20Assignment)/models"
 	"gorm.io/gorm"
 )
 

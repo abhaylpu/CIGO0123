@@ -66,12 +66,12 @@ func main4() {
 	users := map[string]bool{}
 	users["golang"] = true
 
-	// value, ok := users["rahul"]
+	// value, ok := users["abhay"]
 	// if ok == false {
 	// 	fmt.Println("value not there")
 	// }
 
-	//fmt.Println(users["rahul"])
+	//fmt.Println(users["abhay"])
 	fmt.Println("Hi its my branch")
 
 }

@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"github.com/Gaurav11001001/week2-GL1-CipherSchools/database"
-	"github.com/Gaurav11001001/week2-GL1-CipherSchools/handler"
+	"github.com/abhaylpu/CIGO0123/tree/main/(Week-2%20Assignment)/database"
+	"github.com/abhaylpu/CIGO0123/tree/main/(Week-2%20Assignment)/handlers"
 	"github.com/gin-gonic/gin"
 )
 
