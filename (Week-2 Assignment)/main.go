@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/11001001/week2-GL1-CipherSchools/routers"
-	"github.com/Gaurav11001001/week2-GL1-CipherSchools/database"
+	"github.com/abhaylpu/CIGO0123/tree/main/(Week-2%20Assignment)/routers"
+	"github.com/abhaylpu/CIGO0123/tree/main/(Week-2%20Assignment)/database"
 )
 
 func main() {
